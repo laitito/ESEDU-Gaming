@@ -1,19 +1,23 @@
-h1 {
+.tausta {
+  background-color: rgb(219, 219, 84);
+  width: 80%;
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.otsikko_1 {
     color: blue;
     text-align: center;
-}h3, h4 {
-  color: rgb(60, 80, 31);
-  text-align: center;
 }
-.tausta {
-    background-color: rgb(219, 219, 84);
-    width: 80%;
-    max-width: 500px;
-    margin: auto;
-    padding: 10px;
-    border: 1px solid black;
-    border-radius: 5px;
+
+.alaviite {
+    color: rgb(60, 80, 31);
+    text-align: center;
 }
+
 a {
     color: rgb(235, 16, 16);
   }
